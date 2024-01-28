@@ -31,7 +31,7 @@
 ## 项目启动
 <a name="rWUvl"></a>
 ### 前端
-导入依赖<br />npm insatll<br />运行<br />npm run dev<br />打包<br />npm run build
+导入依赖<br />`npm install`<br />运行<br />`npm run dev`<br />打包<br />`npm run build`
 <a name="hkvE1"></a>
 ### 后端
 
